@@ -1,0 +1,21 @@
+{
+    "params" : 
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql+pymysql://root:@localhost/codingthunder",
+        "prod_uri" : "mysql+pymysql://root:@localhost/codingthunder",
+        "fb_url" : "https://facebook.com/codingthunder",
+        "tw_url" : "https://twitter.com/codingthunder",
+        "gh_url" : "https://github.com/codingthunder",
+        "blog_name" : "Coding Thunder",
+        "tag_line" : "A Blog liked by Programmers",
+        "gmail_user" : "user gmail",
+        "gmail_password" : "gmail password",
+        "about_text" : "Hi my name is Nihal. I study in SMIT 2nd Year. I am a good boy.",
+        "no_of_posts" : 3,
+        "login_image" : "login.svg",
+        "admin_user" : "userid",
+        "admin_password" : "userid password",
+        "location" : "location to upload files"
+    }
+}
